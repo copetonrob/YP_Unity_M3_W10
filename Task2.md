@@ -25,8 +25,11 @@
 <img src="https://github.com/copetonrob/YP_Unity_M3_W10/blob/main/img/Sphere.png" width="400"/>
 
 Создай материал для корма. Добавь материал на сферу. Добавь компонент Rigidbody. В компоненте выстави 
+
 Interpolate -> Interpolate 
+
 и 
+
 Collision Detection -> Continous
 
 <img src="https://github.com/copetonrob/YP_Unity_M3_W10/blob/main/img/Components.png" width="400"/>
