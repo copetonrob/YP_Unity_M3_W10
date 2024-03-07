@@ -53,3 +53,5 @@ Collision Detection -> Continous
 <img src="https://github.com/copetonrob/YP_Unity_M3_W10/blob/main/img/Params.png" width="400"/>
 
 Запусти проект, проверь что все работает.
+
+<img src="https://github.com/copetonrob/YP_Unity_M3_W10/blob/main/img/task2.gif" width="600"/>
